@@ -9,9 +9,6 @@ A passionate Data Scientist with 5 years of experience, specializing in Gen AI, 
 ### 🚀 What I'm Currently Working On
 
 -   **Gen AI Engineer at Cognizant:** Collaborating with Google to deliver end-to-end application development solutions using FlutterFlow, integrating the Gemini 2.0 Flash  model for advanced video file analysis, and enhancing data analysis pipelines and other multiple projects (POCs)
-
--   **Fine-Tuning NLP Models:** Personal project focusing on fine-tuning Language Models using the Ramayan and Mahabharat datasets, with plans for a Streamlit application to showcase the results.
-
 ---
 
 ### 💻 Technologies & Tools I Love
